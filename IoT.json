@@ -1,0 +1,21 @@
+{
+    "device": {
+        "id": "sensor_001",
+        "type": "temperature_sensor",
+        "location": {
+            "room": "living_room",
+            "floor": 1
+        },
+        "settings": {
+            "sampling_rate": "5s",
+            "thresholds": {
+                "min": 15,
+                "max": 30
+            },
+            "notification": {
+                "enabled": true,
+                "email": "user@example.com"
+            }
+        }
+    }
+}

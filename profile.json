@@ -1,0 +1,48 @@
+{
+    "project": {
+        "name": "Website Redesign",
+        "description": "A project to redesign the company website.",
+        "team": {
+            "members": [
+                {
+                    "name": "Alice",
+                    "role": "Project Manager"
+                },
+                {
+                    "name": "Bob",
+                    "role": "Developer"
+                },
+                {
+                    "name": "Charlie",
+                    "role": "Designer"
+                }
+            ]
+        },
+        "timeline": {
+            "start_date": "2024-01-15",
+            "end_date": "2024-04-15",
+            "milestones": [
+                {
+                    "name": "Initial Design",
+                    "due_date": "2024-02-15"
+                },
+                {
+                    "name": "Development Complete",
+                    "due_date": "2024-03-15"
+                },
+                {
+                    "name": "Launch",
+                    "due_date": "2024-04-15"
+                }
+            ]
+        },
+        "budget": {
+            "total": 10000,
+            "allocated": {
+                "design": 3000,
+                "development": 5000,
+                "marketing": 2000
+            }
+        }
+    }
+}
